@@ -22,7 +22,7 @@ docker build -t team3s25-app .
 ```
 5) Run the docker image
 ```
-docker run -d -p 2503:2503: -p 8888:8888 team3s25-app
+docker run -d -p 2503:2503 -p 8888:8888 team3s25-app
 ```
 6) Follow the following links to access the app:  
 App - http://127.0.0.1:2503/  
